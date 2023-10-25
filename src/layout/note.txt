@@ -1,0 +1,4 @@
+Đây là nơi chứa tất cả màn hình của mình
+---
+triển khai giao điện đại diện cho ứng dụng
+các component con sẽ được triển khai theo cấp cha -> con
